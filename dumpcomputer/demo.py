@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Creating a new branch is quick & simple.2
 #Creating a new branch is quick & simple.
 # Paramiko is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
