@@ -39,7 +39,7 @@ while c<len(w):
 	d1=d.split()
 	c+=1
 	d2.append(d1)
-while 1:
+while True:
 	try:
 		louser=raw_input("please login system's user:")
 	except EOFError:
